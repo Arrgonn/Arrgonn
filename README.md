@@ -1,5 +1,4 @@
-### Go - Arrgonn 
-
+```c
 package main
 
 import "fmt"
@@ -16,7 +15,7 @@ func main() {
 	fmt.Printf("username : %v \nage : %v \nskill : %v", username, age, skill)
 }
 
-
+```
 <!--
 **Arrgonn/Arrgonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
