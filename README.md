@@ -30,7 +30,7 @@ func main() {
 		skill    string
 	)
 	username = "Arrgonn"
-	age = 17
+	age = 18
 	skill = "none"
 	fmt.Printf("username : %v \nage : %v \nskill : %v", username, age, skill)
 }
