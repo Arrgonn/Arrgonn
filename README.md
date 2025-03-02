@@ -8,6 +8,16 @@
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
+
+###
 ```c
 package main
 
@@ -28,16 +38,6 @@ func main() {
 ```
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 </div>
 
@@ -47,16 +47,11 @@ func main() {
 
 ###
 
-<p align="left">```c<br>package main<br><br>import "fmt"<br><br>func main() {<br>	var (<br>		username string<br>		age      uint16<br>		skill    string<br>	)<br>	username = "Arrgonn"<br>	age = 17<br>	skill = "none"<br>	fmt.Printf("username : %v \nage : %v \nskill : %v", username, age, skill)<br>}```</p>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Arrgonn/Arrgonn/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 
 
