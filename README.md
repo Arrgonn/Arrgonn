@@ -45,13 +45,7 @@ func main() {
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/46163471?v=4"  />
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Arrgonn/Arrgonn/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
